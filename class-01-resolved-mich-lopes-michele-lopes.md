@@ -1,4 +1,4 @@
-MongoDB - Aula 1 - Exercício 1
+MongoDB - Aula 1 - ExercÃ­cio 1
 Autora: Michele Lopes
 
 Importando os restaurantes
