@@ -1,7 +1,10 @@
 MongoDB - Aula 1 - Exercício 1
+
 Autora: Michele Lopes
 
+
 Importando os restaurantes
+
 
 ```
 Herodice@Mich-Lopes MINGW64 ~/Desktop/PG/Be Mean/be-mean-instagram-mongodb/exercises/01 (master)
@@ -12,7 +15,9 @@ $ mongoimport --db be-mean --collection restaurentes --drop --file restaurantes.
 2015-11-19T13:14:19.528-0200    imported 25359 documents
 ```
 
+
 Contando os restaurantes
+
 
 ```
 $ mongo
